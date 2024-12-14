@@ -258,12 +258,12 @@ footer a {
 .wsp{
     /* padding-left: 93%;    */
     position: fixed;
-    top: 64%;
-    width: 52px;
-    height: 52px;
+    top: 78%;
+    /* width: 52px;
+    height: 52px; */
     border-radius: 50%;
     background-color: #54cd04;
-    margin-left: 80%;
+    margin-left: 86%;
     z-index: 10; /*indica sobre que caja va estar - funciona cuando position esta declarado*/
 }
 
@@ -275,7 +275,7 @@ footer a {
   content: attr(data-descr);
   position: absolute;
   left: 0;
-  top: 59px;
+  top: 59px; 
   border: 1.5px #ffffff solid;
   border-radius: 10px;
   background-color: #54cd04;
